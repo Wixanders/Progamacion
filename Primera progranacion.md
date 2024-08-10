@@ -63,6 +63,13 @@ function EntrarALaCasa(personas):
 
 
 
+Hoy pude conectar el github a VS 
+UWU
+Orgullo que ya puedo escribir codigos como [yes]
+true False 
+ETC
+
+Vamos a seguir empezando uwu
 
 
 
